@@ -3,7 +3,7 @@
 ## I’m Ashikur Rahman, Nickname - Ashik
 
 - 👊 I’m just a second-year student who loves to develop unnecessary things.🙃 
-- 👀 I’m interested in .....?
+- 👀 I’m interested in .....? (Probably in so many things).
 - 🐱‍👤 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on Java projects.
 
