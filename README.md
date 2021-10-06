@@ -48,7 +48,7 @@
 [gmail]: mailto:ashik.rahmanprc@gmail.com
 [telegram]: https://t.me/ashik5757
 [linkedin]: https://www.linkedin.com/signup
-[instagram]: ashik_rahman77
+[instagram]: https://www.instagram.com/ashik_rahman77
 
 
 
