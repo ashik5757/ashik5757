@@ -1,8 +1,4 @@
-## Hi there.........🖐🖐
-
-## I’m Ashikur Rahman, Nickname - Ashik
-
-- 🐱‍👤 I am currently developing some Android apps and am looking forward to collaborating on Android projects.
+🖐🖐
 
 <br/>
 
